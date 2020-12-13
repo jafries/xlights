@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="theBoss">
+  <testpreset name="poor_mans_advent">
+    <channelr start="1" end="509"/>
+  </testpreset>
+</Networks>
